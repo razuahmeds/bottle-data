@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "HydroMax Bottle",
+    "brand": "HydroMax",
+    "price": 450,
+    "capacity": "750ml",
+    "color": "Blue",
+    "material": "Stainless Steel",
+    "weight": "320g",
+    "usableFor": "5 years",
+    "temperature": "Hot & Cold",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+  },
+  {
+    "id": 2,
+    "name": "AquaFresh Bottle",
+    "brand": "AquaFresh",
+    "price": 350,
+    "capacity": "1 Liter",
+    "color": "Black",
+    "material": "Plastic",
+    "weight": "180g",
+    "usableFor": "1-2 years",
+    "temperature": "Cold Only",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1625708458528-802ec79b1ed7"
+  },
+  {
+    "id": 3,
+    "name": "ThermoPro Bottle",
+    "brand": "ThermoPro",
+    "price": 850,
+    "capacity": "1 Liter",
+    "color": "Silver",
+    "material": "Stainless Steel",
+    "weight": "450g",
+    "usableFor": "5-10 years",
+    "temperature": "Hot & Cold",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+  },
+  {
+    "id": 4,
+    "name": "EcoSip Bottle",
+    "brand": "EcoSip",
+    "price": 550,
+    "capacity": "600ml",
+    "color": "Green",
+    "material": "BPA-Free Plastic",
+    "weight": "150g",
+    "usableFor": "1-2 years",
+    "temperature": "Cold Only",
+    "inStock": false,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+  },
+  {
+    "id": 5,
+    "name": "CoolFlow Bottle",
+    "brand": "CoolFlow",
+    "price": 700,
+    "capacity": "800ml",
+    "color": "Red",
+    "material": "Aluminium",
+    "weight": "250g",
+    "usableFor": "3-5 years",
+    "temperature": "Cold Only",
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1564419320461-6870880221ad"
+  }
+]
